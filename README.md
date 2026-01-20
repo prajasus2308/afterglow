@@ -1,3 +1,5 @@
+![Untitled Project](https://github.com/user-attachments/assets/1d52e8b8-0832-4f29-829a-3b8aa9bb8dc7)
+
 🌟 Afterglow – Your AI-Powered Productivity Partner
 Welcome to Afterglow, a sleek, AI-driven web experience built with Anima. This project showcases a modern landing page for an AI assistant platform that helps teams automate tasks, gain insights, and integrate seamlessly with their workflows.
 
