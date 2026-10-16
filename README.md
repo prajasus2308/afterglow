@@ -30,3 +30,27 @@ All content © Pratyush Raj
 
 📌 Notes
 This is a design-to-code demo using Anima’s auto-generation. For production use, consider optimizing assets, adding backend logic, and securing user data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
