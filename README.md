@@ -25,7 +25,7 @@ Frontend: Auto-generated HTML/CSS/JS
 Hosting: Anima Playground (Dev Preview)
 
 👤 Creator
-Built by Pratyush Raj (@prajasus2308 (github.com in Bing))
+Built by Pratyush Raj (@prajasus2308)
 All content © Pratyush Raj
 
 📌 Notes
