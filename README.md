@@ -8,7 +8,7 @@ Welcome to Afterglow, a sleek, AI-driven web experience built with Anima. This p
       
 🧠 Features
 AI Task Automation – Let your agent handle the busywork so your team can focus on innovation.
-
+ 
 Real-Time Insights – Get AI-generated reports for faster, confident decision-making.
 
 Flexible Integrations – Connect your favorite tools and workflows with ease.
